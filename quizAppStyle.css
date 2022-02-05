@@ -1,0 +1,18 @@
+:root{
+    --quizTitle:#4B6981;
+    --quizQuestion:#686963  ;
+}
+body{
+    background-color: #C0AFB3;  
+}
+
+.backgroundQuiz{
+    background-color: var(--quizTitle);
+}
+.backgroundQuestion{
+    background-color: var(--quizQuestion);
+    height: 20vh;
+}
+.congrtz{
+    height: 20vh;
+}
